@@ -45,7 +45,7 @@ a {
 }
 
 .tm-bg-white-transparent {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.7);
   border: 1px solid white;
 }
 
@@ -80,7 +80,7 @@ a {
 }
 
 .tm-brand {
-  font-size: 2.6rem;
+  font-size: 2rem;
 }
 
 .tm-brand-box {
